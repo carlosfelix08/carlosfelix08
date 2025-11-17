@@ -1,51 +1,66 @@
-# Carlos Félix
+# 👨‍💻 Carlos Félix — Estudante de Engenharia de Software
 
-🎓 Estudante de **Engenharia de Software** na UDF  
-💻 Atualmente desenvolvendo projetos com **Git, GitHub, CSS, PHP, HTML, Python e JavaScript**  
-📚 Estudando metodologias ágeis como **Kanban** e **Scrum**
+Bem-vindo ao meu perfil!  
+Sou estudante de **Engenharia de Software na UDF (Universidade do Distrito Federal)** e utilizo este espaço para registrar minha evolução através de projetos, exercícios e estudos práticos ao longo da formação.
 
----
-
-## 📌 Sobre mim
-Sou estudante de Engenharia de Software com interesse em desenvolvimento web e boas práticas de versionamento.  
-Este perfil é utilizado para armazenar projetos acadêmicos e exercícios práticos, refletindo minha evolução na área de tecnologia.
+Busco escrever código limpo, organizado e de fácil manutenção, valorizando aprendizado contínuo, organização e clareza na comunicação.
 
 ---
 
-## 🎯 Objetivo Profissional
-Busco oportunidades para aplicar meus conhecimentos em desenvolvimento de software, especialmente em projetos web,  
-utilizando metodologias ágeis e boas práticas de versionamento. Meu objetivo é evoluir como desenvolvedor e contribuir  
-para soluções tecnológicas que gerem impacto positivo.
+## 🎯 Objetivos Profissionais
+
+- 🚀 Conseguir um estágio para adquirir experiência prática e evoluir minhas habilidades técnicas  
+- 🧩 Criar projetos cada vez mais completos e profissionais  
+- 🔎 Explorar diferentes áreas do desenvolvimento para identificar aquela que mais combina comigo  
+- 🗄️ Atualmente, a área que mais me chamou atenção é **Banco de Dados**, apesar de estar no início da graduação  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-- **Front-end:** HTML, CSS, JavaScript  
-- **Back-end:** PHP, Python  
-- **Versionamento:** Git & GitHub  
-- **Metodologias Ágeis:** Kanban, Scrum  
+## 🚀 Tecnologias e Ferramentas
+
+### Linguagens e ferramentas que estou estudando e utilizando:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosfelix08&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfelix08&layout=compact&theme=default)
+## 📚 O que estou aprendendo atualmente
+
+- 📘 Aprimorando HTML, CSS e PHP  
+- 📗 Estudando JavaScript básico  
+- 🐍 Aprendendo Programação Orientada a Objetos com Python  
+- 🗄️ Estudando MySQL e consultas SQL  
+- 🔧 Melhorando práticas de Git e GitHub  
+- 🏷️ Aprendendo princípios de Scrum e Kanban  
 
 ---
 
-## 📂 Projetos em Destaque
-> Em breve adicionarei projetos relevantes que estou desenvolvendo.  
-> Enquanto isso, este espaço reflete minha evolução acadêmica e prática.
+## 📌 Sobre meus repositórios
+
+Aqui você encontrará:
+
+- 📂 Projetos e exercícios da faculdade  
+- 🧪 Estudos práticos para reforço de conceitos  
+- 🧱 Códigos de experimentação e aprendizado  
+- 🚧 (Em breve) projetos completos voltados para portfólio profissional  
 
 ---
 
-## 📜 Cursos e Certificações
-> Ainda em construção. Pretendo incluir cursos e certificações conforme avanço nos estudos e formações complementares.
+## 📬 Contato
+
+Sinta-se à vontade para entrar em contato:
+
+- 📸 **Instagram:** https://instagram.com/carlosfelixx_  
+- ✉️ **E-mail:** carlos.felixx08@gmail.com  
 
 ---
 
-## 📫 Contato
-- 📧 Email: **carlos.felixx08@gmail.com**  
-- 📷 Instagram: [@carlosfelixx_](https://instagram.com/carlosfelixx_)
-
----
+Obrigado por visitar meu perfil! 😊  
