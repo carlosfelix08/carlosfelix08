@@ -62,8 +62,5 @@ Meus repositórios geralmente contêm:
 
 ### 🤝 Conecte-se Comigo
 
-| E-mail | carlos.felixx08@gmail.com |
 | Instagram | https://instagram.com/carlosfelixx_ |
-| :--- | :--- |
-| **LinkedIn** | [Seu Perfil do LinkedIn](Link do seu perfil) |
-| **E-mail** | [seu.email@exemplo.com] |
+| **E-mail** | carlos.felixx08@gmail.com |
