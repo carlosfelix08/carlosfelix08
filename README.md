@@ -52,10 +52,6 @@ Meus repositórios geralmente contêm:
 
 ### 📈 Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carlosfelix08&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-<br>
-
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfelix08&layout=compact&theme=radical)
 
 ---
