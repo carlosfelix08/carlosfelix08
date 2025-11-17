@@ -58,7 +58,7 @@ Aqui você encontrará:
 
 Sinta-se à vontade para entrar em contato:
 
-- 📸 **Instagram:** https://instagram.com/carlosfelixx_  
+- 📸 **Instagram:** https://www.instagram.com/carlosfelixx_/ 
 - ✉️ **E-mail:** carlos.felixx08@gmail.com  
 
 ---
